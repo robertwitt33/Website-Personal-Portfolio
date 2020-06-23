@@ -1,2 +1,6 @@
 # Website-Personal-Portfolio
-Website used to show more information about myself. Coded with HTML/CSS
+I created this website to show the world a little bit more about myself. It includes some projects I have completed in my free time, a personal bio, a reading blog, and more information about myself. Hopefully recruiters will be able to get a better picture of who I really am when they are considering me for a company position.
+
+The first website I made was a very cluncky, unorganized version of this current website. I decided to create this website in order to present myself in a more elegant and organized fashion. I grabbed a 2020 HTML/CSS template off of the internet and was able to move parts around and add my own information to it. I plan to add more to this website in the future as well
+
+Going into this project, I had a solid foundation of HTML/CSS. I was able to figure out how to move certain parts of the website around and where to place my information. Something that I struggled with was choosing which format to use for each section. I had to try out each format with my information to see which would work the best. Now that I have done this project, I feel like I would be able to go to a small company, such as a family-owned coffee shop, and redesign their website to make it look better.
